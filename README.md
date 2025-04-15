@@ -11,6 +11,6 @@ Whether it's **performance analysis**, **strategy optimization**, or **data-driv
 Feel free to reach out to me for any collaboration, projects, or just to connect!  
 You can contact me through:
 
-- **Email**: [omentodavide@gmail.com]
-- **LinkedIn**: [Davide Omento]
+- **Email**: omentodavide@gmail.com
+- **LinkedIn**: Davide Omento
 - **Phone**: +39 3662789393
